@@ -21,6 +21,7 @@
 		EA0337DA25ECF99500963BB4 /* Снимок экрана 2021-03-01 в 14.13.55.png in Resources */ = {isa = PBXBuildFile; fileRef = EA0337D725ECF99400963BB4 /* Снимок экрана 2021-03-01 в 14.13.55.png */; };
 		EA0337DB25ECF99500963BB4 /* Снимок экрана 2021-03-01 в 14.14.03.png in Resources */ = {isa = PBXBuildFile; fileRef = EA0337D825ECF99400963BB4 /* Снимок экрана 2021-03-01 в 14.14.03.png */; };
 		EA0337DC25ECF99500963BB4 /* Снимок экрана 2021-03-01 в 14.13.37.png in Resources */ = {isa = PBXBuildFile; fileRef = EA0337D925ECF99500963BB4 /* Снимок экрана 2021-03-01 в 14.13.37.png */; };
+		EA0337DF25ECFC6400963BB4 /* Снимок экрана 2021-03-01 в 14.40.22.png in Resources */ = {isa = PBXBuildFile; fileRef = EA0337DE25ECFC6400963BB4 /* Снимок экрана 2021-03-01 в 14.40.22.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		EA0337D725ECF99400963BB4 /* Снимок экрана 2021-03-01 в 14.13.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-03-01 в 14.13.55.png"; sourceTree = "<group>"; };
 		EA0337D825ECF99400963BB4 /* Снимок экрана 2021-03-01 в 14.14.03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-03-01 в 14.14.03.png"; sourceTree = "<group>"; };
 		EA0337D925ECF99500963BB4 /* Снимок экрана 2021-03-01 в 14.13.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-03-01 в 14.13.37.png"; sourceTree = "<group>"; };
+		EA0337DE25ECFC6400963BB4 /* Снимок экрана 2021-03-01 в 14.40.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-03-01 в 14.40.22.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 			children = (
 				EA0337D925ECF99500963BB4 /* Снимок экрана 2021-03-01 в 14.13.37.png */,
 				EA0337D725ECF99400963BB4 /* Снимок экрана 2021-03-01 в 14.13.55.png */,
+				EA0337DE25ECFC6400963BB4 /* Снимок экрана 2021-03-01 в 14.40.22.png */,
 				EA0337D825ECF99400963BB4 /* Снимок экрана 2021-03-01 в 14.14.03.png */,
 			);
 			path = Screenshots;
@@ -209,6 +212,7 @@
 				EA0337DA25ECF99500963BB4 /* Снимок экрана 2021-03-01 в 14.13.55.png in Resources */,
 				EA0337DC25ECF99500963BB4 /* Снимок экрана 2021-03-01 в 14.13.37.png in Resources */,
 				EA0337A325E8DD5D00963BB4 /* Assets.xcassets in Resources */,
+				EA0337DF25ECFC6400963BB4 /* Снимок экрана 2021-03-01 в 14.40.22.png in Resources */,
 				EA0337A125E8DD5B00963BB4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
